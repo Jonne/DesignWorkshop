@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NamespacesMetrics>
+  <Namespace Namespace="Cohesion" NTypes="2" NILInstruction="71" NbLinesOfCode="11" NbLinesOfComment="0" PercentageComment="0" PercentageCoverage="-" AfferentCoupling="0" EfferentCoupling="3" />
+  <Namespace Namespace="Examples.Coupling" NTypes="4" NILInstruction="168" NbLinesOfCode="13" NbLinesOfComment="0" PercentageComment="0" PercentageCoverage="-" AfferentCoupling="0" EfferentCoupling="4" />
+</NamespacesMetrics>

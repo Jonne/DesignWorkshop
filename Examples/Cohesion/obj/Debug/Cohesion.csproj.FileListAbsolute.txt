@@ -1,0 +1,6 @@
+d:\Repos\DesignWorkshop\Examples\Cohesion\obj\Debug\Cohesion.csprojResolveAssemblyReference.cache
+d:\Repos\DesignWorkshop\Examples\Cohesion\bin\Debug\Examples.Cohesion.exe.config
+d:\Repos\DesignWorkshop\Examples\Cohesion\bin\Debug\Examples.Cohesion.exe
+d:\Repos\DesignWorkshop\Examples\Cohesion\bin\Debug\Examples.Cohesion.pdb
+d:\Repos\DesignWorkshop\Examples\Cohesion\obj\Debug\Examples.Cohesion.exe
+d:\Repos\DesignWorkshop\Examples\Cohesion\obj\Debug\Examples.Cohesion.pdb

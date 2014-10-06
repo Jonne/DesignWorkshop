@@ -1,0 +1,6 @@
+d:\repos\DesignWorkshop\Examples\Examples\bin\Debug\Examples.exe.config
+d:\repos\DesignWorkshop\Examples\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+d:\repos\DesignWorkshop\Examples\Examples\bin\Debug\Examples.exe
+d:\repos\DesignWorkshop\Examples\Examples\bin\Debug\Examples.pdb
+d:\repos\DesignWorkshop\Examples\Examples\obj\Debug\Examples.exe
+d:\repos\DesignWorkshop\Examples\Examples\obj\Debug\Examples.pdb

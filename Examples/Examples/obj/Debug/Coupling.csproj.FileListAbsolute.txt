@@ -1,0 +1,5 @@
+d:\repos\DesignWorkshop\Examples\Examples\bin\Debug\Examples.Coupling.exe.config
+d:\repos\DesignWorkshop\Examples\Examples\bin\Debug\Examples.Coupling.exe
+d:\repos\DesignWorkshop\Examples\Examples\bin\Debug\Examples.Coupling.pdb
+d:\repos\DesignWorkshop\Examples\Examples\obj\Debug\Examples.Coupling.exe
+d:\repos\DesignWorkshop\Examples\Examples\obj\Debug\Examples.Coupling.pdb

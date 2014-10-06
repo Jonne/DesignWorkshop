@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AssembliesMetrics>
+  <Assembly Assembly="Cohesion v1.0.0.0" NTypes="2" NAbstractTypes="0" NILInstructionInAsm="71" NbLinesOfCodeInAsm="11" NbLinesOfCommentInAsm="17" PercentageCommentInAsm="60" PercentageCoverageInAsm="-" AfferentCoupling="0" EfferentCoupling="15" RelationalCohesion="1" Instability="1" Abstractness="0" DistFrMainSeq="0" NormDistFrMainSeq="0" />
+  <Assembly Assembly="Examples.Coupling v1.0.0.0" NTypes="4" NAbstractTypes="0" NILInstructionInAsm="168" NbLinesOfCodeInAsm="13" NbLinesOfCommentInAsm="17" PercentageCommentInAsm="56" PercentageCoverageInAsm="-" AfferentCoupling="0" EfferentCoupling="16" RelationalCohesion="1.75" Instability="1" Abstractness="0" DistFrMainSeq="0" NormDistFrMainSeq="0" />
+</AssembliesMetrics>

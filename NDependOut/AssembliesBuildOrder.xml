@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AssemblySortForCompilOrObfusk>
+  <Assembly Assembly="Examples.Coupling">3</Assembly>
+  <Assembly Assembly="Cohesion">4</Assembly>
+</AssemblySortForCompilOrObfusk>
